@@ -1,0 +1,9 @@
+pandas
+openpyxl
+xlrd
+duckdb
+matplotlib
+seaborn
+scikit-learn
+jupyter
+lxml
