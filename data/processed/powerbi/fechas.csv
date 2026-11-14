@@ -1,0 +1,13 @@
+fecha,anio,mes,etiqueta,tipo_corte,orden
+2015-12-31,2015,12,Dic 2015,Cierre anual,1
+2016-12-31,2016,12,Dic 2016,Cierre anual,2
+2017-12-31,2017,12,Dic 2017,Cierre anual,3
+2018-12-31,2018,12,Dic 2018,Cierre anual,4
+2019-12-31,2019,12,Dic 2019,Cierre anual,5
+2020-12-31,2020,12,Dic 2020,Cierre anual,6
+2021-12-31,2021,12,Dic 2021,Cierre anual,7
+2022-12-31,2022,12,Dic 2022,Cierre anual,8
+2023-12-31,2023,12,Dic 2023,Cierre anual,9
+2024-12-31,2024,12,Dic 2024,Cierre anual,10
+2025-12-31,2025,12,Dic 2025,Cierre anual,11
+2026-09-30,2026,9,Sep 2026,Parcial (anualizado),12

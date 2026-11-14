@@ -1,0 +1,57 @@
+table Fechas
+	lineageTag: 190a85d3-cb3d-5fa6-b27c-bdc3fb250c5b
+
+	column fecha
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		summarizeBy: none
+		lineageTag: dc6084e1-96e5-5318-89be-89c80b8e0601
+		sourceColumn: fecha
+
+	column anio
+		dataType: int64
+		summarizeBy: none
+		lineageTag: b21a6da0-ebd1-5ab7-a6e7-ec33de06baf5
+		sourceColumn: anio
+
+	column mes
+		dataType: int64
+		summarizeBy: none
+		lineageTag: 435b27cf-b7cb-5632-b2fb-ad54a451aa29
+		sourceColumn: mes
+
+	column etiqueta
+		dataType: string
+		summarizeBy: none
+		sortByColumn: orden
+		lineageTag: f96b8285-ae82-51e6-8165-303b3f96ee14
+		sourceColumn: etiqueta
+
+	column tipo_corte
+		dataType: string
+		summarizeBy: none
+		lineageTag: 8488cb44-4442-5544-a8d3-a0ae000e9181
+		sourceColumn: tipo_corte
+
+	column orden
+		dataType: int64
+		summarizeBy: none
+		lineageTag: 3d8fe0db-7594-51bd-be09-6c7ff18feaf6
+		sourceColumn: orden
+
+	partition Fechas = m
+		mode: import
+		source =
+				let
+					Origen = Csv.Document(Web.Contents(RutaDatos & "fechas.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+					Tipos = Table.TransformColumnTypes(Encabezados, {
+						{"fecha", type date},
+						{"anio", Int64.Type},
+						{"mes", Int64.Type},
+						{"etiqueta", type text},
+						{"tipo_corte", type text},
+						{"orden", Int64.Type}
+					}, "en-US")
+				in
+					Tipos

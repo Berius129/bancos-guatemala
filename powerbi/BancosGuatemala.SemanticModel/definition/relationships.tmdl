@@ -1,0 +1,7 @@
+relationship bac7c7d5-e5c9-5fc9-99c1-765aa4df4d3a
+	fromColumn: Cuentas.banco
+	toColumn: Bancos.banco
+
+relationship 2b858dc9-3e00-502e-bb0c-4db0061ca0ed
+	fromColumn: Cuentas.fecha
+	toColumn: Fechas.fecha

@@ -1,0 +1,238 @@
+table Cuentas
+	lineageTag: 7418b843-3029-52f8-a673-61c79f3776da
+
+	/// Fecha del corte más reciente en el contexto.
+	measure 'Último corte' = MAX ( Fechas[fecha] )
+		formatString: mmm yyyy
+		displayFolder: Base
+		lineageTag: e66e8ba3-8385-59e6-97c9-3bffc58f28a8
+
+	/// Activo total en millones de quetzales (la SIB publica en miles).
+	measure 'Activos (Q millones)' = VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[activo] ), Fechas[fecha] = _f ) / 1000
+		formatString: #,0
+		displayFolder: Base
+		lineageTag: 567fab78-1c25-539e-9169-1d82df682299
+
+	/// Utilidad neta acumulada en el año x 12 / mes del corte.
+	measure 'Utilidad anualizada (Q millones)' = VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[utilidad_anualizada] ), Fechas[fecha] = _f ) / 1000
+		formatString: #,0
+		displayFolder: Base
+		lineageTag: 7da9f01b-525a-55e1-acaa-6100d5746e94
+
+	/// Bancos que reportan en el corte.
+	measure 'Número de bancos' = VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( DISTINCTCOUNT ( Cuentas[banco] ), Fechas[fecha] = _f )
+		formatString: 0
+		displayFolder: Base
+		lineageTag: d1bb1386-1d61-5099-8423-39643cfae87b
+
+	/// Utilidad anualizada / activo promedio (corte actual y anterior).
+	measure 'ROA' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[utilidad_anualizada] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[activo_promedio] ), Fechas[fecha] = _f ) )
+		formatString: 0.00%
+		displayFolder: Rentabilidad
+		lineageTag: 8b4e9e5b-30a8-5b07-be2c-f18177ab9b31
+
+	/// Utilidad anualizada / capital contable promedio.
+	measure 'ROE' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[utilidad_anualizada] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[capital_promedio] ), Fechas[fecha] = _f ) )
+		formatString: 0.0%
+		displayFolder: Rentabilidad
+		lineageTag: fca8938c-ea1c-5db4-9438-95aaf7df7a34
+
+	/// Gastos de administración / margen operacional bruto. Más bajo = mejor.
+	measure 'Eficiencia' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[gastos_administracion] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[margen_operacional_bruto] ), Fechas[fecha] = _f ) )
+		formatString: 0.0%
+		displayFolder: Rentabilidad
+		lineageTag: 77de4f68-b136-53fb-9a8a-dba6b3ca3e21
+
+	/// Cartera vencida / cartera bruta.
+	measure 'Morosidad' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[cartera_vencida] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[cartera_bruta] ), Fechas[fecha] = _f ) )
+		formatString: 0.00%
+		displayFolder: Riesgo
+		lineageTag: fed3d6b0-e011-576e-8f0c-b8300ba974f5
+
+	/// Estimaciones por valuación de cartera / cartera vencida.
+	measure 'Cobertura' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[estimaciones_cartera] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[cartera_vencida] ), Fechas[fecha] = _f ) )
+		formatString: 0%
+		displayFolder: Riesgo
+		lineageTag: 71b30414-d42f-5b2f-b308-dabec9b7c25f
+
+	/// Capital contable / activo total.
+	measure 'Capital / activos' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[capital] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[activo] ), Fechas[fecha] = _f ) )
+		formatString: 0.0%
+		displayFolder: Riesgo
+		lineageTag: a2cdd3f9-417e-5f01-8470-788c6b3f9a32
+
+	/// Qué proporción de lo captado está prestada.
+	measure 'Cartera / depósitos' = DIVIDE ( VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[cartera_bruta] ), Fechas[fecha] = _f ), VAR _f = MAX ( Fechas[fecha] ) RETURN CALCULATE ( SUM ( Cuentas[depositos] ), Fechas[fecha] = _f ) )
+		formatString: 0%
+		displayFolder: Riesgo
+		lineageTag: f764f604-182d-54a9-8bb5-5172fa35cf6f
+
+	/// Activos del banco / activos del sistema en el mismo corte.
+	measure 'Participación en activos' = DIVIDE ( [Activos (Q millones)], CALCULATE ( [Activos (Q millones)], ALL ( Bancos ) ) )
+		formatString: 0.0%
+		displayFolder: Mercado
+		lineageTag: 035b821a-4800-5ac2-963a-94ea589deb95
+
+	/// Índice Herfindahl-Hirschman sobre activos. <1,500 poco concentrado; 1,500-2,500 moderado.
+	measure 'HHI' = SUMX ( VALUES ( Bancos[banco] ), ( 100 * CALCULATE ( [Participación en activos] ) ) ^ 2 )
+		formatString: #,0
+		displayFolder: Mercado
+		lineageTag: 2a8e61f5-c1e7-53c3-a9f2-a9d9fec2987a
+
+	/// Participación conjunta de los tres bancos más grandes.
+	measure 'Participación top 3' =
+			VAR _top = TOPN ( 3, ALL ( Bancos[banco] ), [Activos (Q millones)], DESC )
+			RETURN DIVIDE ( CALCULATE ( [Activos (Q millones)], _top ), CALCULATE ( [Activos (Q millones)], ALL ( Bancos ) ) )
+		formatString: 0.0%
+		displayFolder: Mercado
+		lineageTag: 4c8d2974-0067-5b6b-b179-6e70431885ad
+
+	/// ROE del sistema completo, ignora el filtro de banco.
+	measure 'ROE sistema' = CALCULATE ( [ROE], ALL ( Bancos ) )
+		formatString: 0.0%
+		displayFolder: Comparación
+		lineageTag: 02dac85f-5069-5d9d-9a8d-d419bc428b46
+
+	/// Morosidad del sistema completo.
+	measure 'Morosidad sistema' = CALCULATE ( [Morosidad], ALL ( Bancos ) )
+		formatString: 0.00%
+		displayFolder: Comparación
+		lineageTag: 1402845a-23c0-5872-8d0d-9b9cc65d0850
+
+	/// Eficiencia del sistema completo.
+	measure 'Eficiencia sistema' = CALCULATE ( [Eficiencia], ALL ( Bancos ) )
+		formatString: 0.0%
+		displayFolder: Comparación
+		lineageTag: 3599291e-5997-5065-97e0-34b4a6370a97
+
+	column fecha
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		summarizeBy: none
+		isHidden
+		lineageTag: f21a1031-a4c6-5130-b318-60077aff3e15
+		sourceColumn: fecha
+
+	column banco
+		dataType: string
+		summarizeBy: none
+		isHidden
+		lineageTag: 60dab7a5-12d3-55ef-a947-cf469070a979
+		sourceColumn: banco
+
+	column activo
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: c5b995d4-99fd-5ba4-ac59-738a5d159352
+		sourceColumn: activo
+
+	column capital
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 80d85404-e2e9-5f6b-b70f-0a530b573a34
+		sourceColumn: capital
+
+	column depositos
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: b04914fe-1188-5bbb-b27e-8fb49042ae1a
+		sourceColumn: depositos
+
+	column disponibilidades
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 38777ab2-69fd-5ba9-97e8-05a8c8758866
+		sourceColumn: disponibilidades
+
+	column cartera_bruta
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 7285ba79-e1db-5600-8b4c-3fd949b44100
+		sourceColumn: cartera_bruta
+
+	column cartera_vencida
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: c049ca03-a29e-5500-a645-e621e97ca781
+		sourceColumn: cartera_vencida
+
+	column estimaciones_cartera
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: a304dfaf-8412-53d7-b813-b1d2d1aac152
+		sourceColumn: estimaciones_cartera
+
+	column margen_operacional_bruto
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 9d99f831-af83-5a68-9595-2bde08eb16ad
+		sourceColumn: margen_operacional_bruto
+
+	column gastos_administracion
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 533121ff-67c8-5de5-ac72-056e67c1bc4a
+		sourceColumn: gastos_administracion
+
+	column utilidad_neta_acum
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 35933b59-cc55-5e95-ad65-98d953c49aeb
+		sourceColumn: utilidad_neta_acum
+
+	column utilidad_anualizada
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: f88841a7-8aea-524c-abf8-b50084b3f52e
+		sourceColumn: utilidad_anualizada
+
+	column activo_promedio
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 44842c46-ad45-59d0-9929-663edcc4ef79
+		sourceColumn: activo_promedio
+
+	column capital_promedio
+		dataType: double
+		summarizeBy: sum
+		isHidden
+		lineageTag: 9df12cec-6acb-59ce-8671-126d4f0458e0
+		sourceColumn: capital_promedio
+
+	partition Cuentas = m
+		mode: import
+		source =
+				let
+					Origen = Csv.Document(Web.Contents(RutaDatos & "cuentas.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+					Tipos = Table.TransformColumnTypes(Encabezados, {
+						{"fecha", type date},
+						{"banco", type text},
+						{"activo", type number},
+						{"capital", type number},
+						{"depositos", type number},
+						{"disponibilidades", type number},
+						{"cartera_bruta", type number},
+						{"cartera_vencida", type number},
+						{"estimaciones_cartera", type number},
+						{"margen_operacional_bruto", type number},
+						{"gastos_administracion", type number},
+						{"utilidad_neta_acum", type number},
+						{"utilidad_anualizada", type number},
+						{"activo_promedio", type number},
+						{"capital_promedio", type number}
+					}, "en-US")
+				in
+					Tipos

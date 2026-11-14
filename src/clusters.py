@@ -1,7 +1,8 @@
 """Agrupa los bancos por perfil financiero con k-means.
 
-Usa el promedio 2023-2025 de cada indicador para suavizar años atípicos, y solo
-los bancos que siguen operando en el último corte.
+Usa el promedio de los últimos tres cierres anuales (diciembre) para suavizar años atípicos,
+y solo los bancos que siguen operando. Los cortes parciales (p. ej. septiembre) se excluyen:
+mezclarlos con cierres anuales cambia el resultado del agrupamiento.
 
 Uso:  .venv/bin/python src/clusters.py   (después de src/kpis.py)
 """
@@ -22,6 +23,7 @@ VARIABLES = ["roa", "eficiencia", "morosidad", "cobertura", "capital_sobre_activ
 
 def preparar() -> pd.DataFrame:
     k = pd.read_csv(PROC / "kpis.csv", parse_dates=["fecha"])
+    k = k[k["fecha"].dt.month == 12]
     ultima = k["fecha"].max()
     vigentes = k.loc[k["fecha"] == ultima, "banco"]
     k = k[k["banco"].isin(vigentes) & (k["fecha"].dt.year >= ultima.year - 2)].copy()

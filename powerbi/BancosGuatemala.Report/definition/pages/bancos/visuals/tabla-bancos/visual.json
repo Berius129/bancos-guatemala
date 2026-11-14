@@ -1,0 +1,238 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "tabla-bancos",
+  "position": {
+    "x": 24,
+    "y": 96,
+    "z": 3000,
+    "height": 608,
+    "width": 700,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bancos"
+                    }
+                  },
+                  "Property": "banco"
+                }
+              },
+              "queryRef": "Bancos.banco",
+              "nativeQueryRef": "banco",
+              "displayName": "Banco"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Activos (Q millones)"
+                }
+              },
+              "queryRef": "Cuentas.Activos (Q millones)",
+              "nativeQueryRef": "Activos (Q millones)",
+              "displayName": "Activos (Q mill.)"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Participación en activos"
+                }
+              },
+              "queryRef": "Cuentas.Participación en activos",
+              "nativeQueryRef": "Participación en activos",
+              "displayName": "Part."
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "ROA"
+                }
+              },
+              "queryRef": "Cuentas.ROA",
+              "nativeQueryRef": "ROA",
+              "displayName": "ROA"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "ROE"
+                }
+              },
+              "queryRef": "Cuentas.ROE",
+              "nativeQueryRef": "ROE",
+              "displayName": "ROE"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Eficiencia"
+                }
+              },
+              "queryRef": "Cuentas.Eficiencia",
+              "nativeQueryRef": "Eficiencia",
+              "displayName": "Eficiencia"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Morosidad"
+                }
+              },
+              "queryRef": "Cuentas.Morosidad",
+              "nativeQueryRef": "Morosidad",
+              "displayName": "Morosidad"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Cobertura"
+                }
+              },
+              "queryRef": "Cuentas.Cobertura",
+              "nativeQueryRef": "Cobertura",
+              "displayName": "Cobertura"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Capital / activos"
+                }
+              },
+              "queryRef": "Cuentas.Capital / activos",
+              "nativeQueryRef": "Capital / activos",
+              "displayName": "Capital/activos"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cuentas"
+                    }
+                  },
+                  "Property": "Cartera / depósitos"
+                }
+              },
+              "queryRef": "Cuentas.Cartera / depósitos",
+              "nativeQueryRef": "Cartera / depósitos",
+              "displayName": "Cartera/dep."
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Cuentas"
+                  }
+                },
+                "Property": "Activos (Q millones)"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": false
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Indicadores por banco'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11D"
+                }
+              }
+            },
+            "bold": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#0b0b0b'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

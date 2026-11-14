@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Bancos Guatemala"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f773b5ab-cc51-5613-84d1-45898c22a563"
+  }
+}

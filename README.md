@@ -2,7 +2,23 @@
 
 Análisis de los 19 bancos que operan en Guatemala a partir de sus balances y estados de resultados públicos (Superintendencia de Bancos, SIB). Calculo rentabilidad, eficiencia, calidad de cartera y concentración del mercado, y agrupo a los bancos por perfil financiero con k-means.
 
-**Herramientas:** Python (pandas, scikit-learn, matplotlib) · SQL (DuckDB) · Git
+**Herramientas:** Python (pandas, scikit-learn, matplotlib) · SQL (DuckDB) · Power BI (DAX, Power Query) · Git
+
+Los datos llegan hasta **septiembre de 2026**. Las gráficas y el clustering de abajo comparan cierres anuales (diciembre 2015-2025); el dashboard de Power BI incluye además el corte parcial de 2026, con la utilidad anualizada.
+
+## Dashboard de Power BI
+
+En [`powerbi/BancosGuatemala.pbip`](powerbi/) hay un dashboard de 3 páginas:
+
+| Página | Contenido |
+|---|---|
+| **Sistema bancario** | Tarjetas de activos, ROE, morosidad, cobertura, HHI y top 3 · participación por banco · tendencias de ROE y morosidad |
+| **Comparación de bancos** | Tabla con 9 indicadores por banco · dispersión ROE contra cobertura por grupo · filtros de corte y grupo |
+| **Detalle por banco** | ROE, morosidad y eficiencia del banco elegido contra el sistema · evolución de activos |
+
+**Modelo de datos:** esquema estrella con `Cuentas` (hechos: un registro por banco y corte), `Bancos` y `Fechas`, y 17 medidas DAX. Las medidas de saldo se evalúan siempre en el último corte del contexto, así que una tarjeta sin filtro muestra el dato más reciente en vez de sumar años, y los cocientes del sistema se calculan sobre sumas (no son promedios de cocientes).
+
+**Abrirlo:** clona el repositorio y abre `powerbi/BancosGuatemala.pbip` con Power BI Desktop (Windows), luego **Actualizar**. Los datos se leen de los CSV de este repositorio en GitHub (parámetro `RutaDatos`); para usar una copia local, cambia el parámetro a la carpeta `data/processed/powerbi/`. El proyecto se genera con `src/powerbi.py`, así que el modelo y el reporte están versionados como texto.
 
 ## Hallazgos principales
 
@@ -64,12 +80,14 @@ Los bancos con reservas altas **prestan una proporción menor de sus depósitos,
 ## Estructura
 ```
 data/raw/         archivos descargados de la SIB (sin modificar)
-data/processed/   balances.csv (formato largo), kpis.csv, sistema.csv, concentracion.csv, clusters.csv
+data/processed/   balances.csv (formato largo), kpis.csv, sistema.csv, concentracion.csv, clusters.csv, powerbi/
 sql/kpis.sql      vistas de indicadores en DuckDB
 src/limpiar.py    lectura y validación de los archivos de la SIB
 src/kpis.py       carga a DuckDB y cálculo de indicadores
 src/clusters.py   k-means y PCA
 src/graficas.py   figuras del reporte
+src/powerbi.py    genera el dashboard (PBIP: modelo TMDL + reporte PBIR)
+powerbi/          proyecto de Power BI
 reports/figuras/  gráficas finales
 ```
 
@@ -80,6 +98,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python src/kpis.py
 .venv/bin/python src/clusters.py
 .venv/bin/python src/graficas.py
+.venv/bin/python src/powerbi.py     # exporta datos y regenera el proyecto de Power BI
 ```
 
 Para actualizar los datos: en la [consulta dinámica de la SIB](https://www.sib.gob.gt/ConsultaDinamica/?cons=7) (Balance General y Estado de Resultados, Instituciones Bancarias), descarga el corte que quieras y guárdalo en `data/raw/`. El script toma la fecha del contenido del archivo, así que el nombre no importa.

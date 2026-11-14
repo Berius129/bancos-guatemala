@@ -3114,6 +3114,1697 @@ fecha,banco,estado,orden,cuenta,valor_miles_q,banco_nombre_oficial,archivo
 2015-12-31,G&T Continental,resultados,93,GANANCIA (PÉRDIDA) NETA,600368.0,"G&T CONTINENTAL, S. A.",Consulta-11.xls
 2015-12-31,Banco de Crédito,resultados,93,GANANCIA (PÉRDIDA) NETA,1554.0,"DE CRÉDITO, S. A.",Consulta-11.xls
 2015-12-31,Azteca,resultados,93,GANANCIA (PÉRDIDA) NETA,93178.0,"AZTECA DE GUATEMALA, S. A.",Consulta-11.xls
+2026-09-30,CHN,balance,1,ACTIVO,17156927.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,1,ACTIVO,3571272.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,1,ACTIVO,50136090.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,1,ACTIVO,199754191.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,1,ACTIVO,156130131.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,1,ACTIVO,20939455.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,1,ACTIVO,3497033.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,1,ACTIVO,781719.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,1,ACTIVO,5445886.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,1,ACTIVO,33864311.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,1,ACTIVO,3418992.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,1,ACTIVO,52005275.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,1,ACTIVO,47800826.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,1,ACTIVO,79565125.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,1,ACTIVO,5108801.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,1,ACTIVO,1114892.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,1,ACTIVO,2100552.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,1,ACTIVO,1280084.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,1,ACTIVO,754963.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,2,DISPONIBILIDADES,3107704.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,2,DISPONIBILIDADES,496936.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,2,DISPONIBILIDADES,6020963.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,2,DISPONIBILIDADES,23072516.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,2,DISPONIBILIDADES,20251696.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,2,DISPONIBILIDADES,2851820.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,2,DISPONIBILIDADES,1346877.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,2,DISPONIBILIDADES,180018.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,2,DISPONIBILIDADES,860197.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,2,DISPONIBILIDADES,3920455.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,2,DISPONIBILIDADES,422311.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,2,DISPONIBILIDADES,6002456.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,2,DISPONIBILIDADES,6504759.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,2,DISPONIBILIDADES,11785953.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,2,DISPONIBILIDADES,622355.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,2,DISPONIBILIDADES,156916.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,2,DISPONIBILIDADES,379539.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,2,DISPONIBILIDADES,388199.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,2,DISPONIBILIDADES,54686.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,3,Caja,157307.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,3,Caja,75085.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,3,Caja,161573.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,3,Caja,1981449.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,3,Caja,3139755.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,3,Caja,522971.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,3,Caja,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,3,Caja,4804.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,3,Caja,64661.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,3,Caja,208528.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,3,Caja,47948.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,3,Caja,1131105.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,3,Caja,917437.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,3,Caja,1328953.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,3,Caja,117123.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,3,Caja,2215.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,3,Caja,2777.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,3,Caja,2152.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,3,Caja,119.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,4,Banco Central,2881918.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,4,Banco Central,403927.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,4,Banco Central,5761406.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,4,Banco Central,18081462.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,4,Banco Central,16459185.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,4,Banco Central,2132903.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,4,Banco Central,559440.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,4,Banco Central,60813.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,4,Banco Central,681203.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,4,Banco Central,3308585.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,4,Banco Central,315208.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,4,Banco Central,3896708.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,4,Banco Central,4551203.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,4,Banco Central,7942055.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,4,Banco Central,485642.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,4,Banco Central,136595.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,4,Banco Central,277998.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,4,Banco Central,136779.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,4,Banco Central,41991.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,5,Bancos del País,2709.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,5,Bancos del País,4094.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,5,Bancos del País,14289.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,5,Bancos del País,154952.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,5,Bancos del País,511.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,5,Bancos del País,3246.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,5,Bancos del País,16851.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,5,Bancos del País,96515.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,5,Bancos del País,4870.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,5,Bancos del País,1105.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,5,Bancos del País,57948.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,5,Bancos del País,52120.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,5,Bancos del País,151570.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,5,Bancos del País,1000.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,5,Bancos del País,6385.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,5,Bancos del País,10222.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,5,Bancos del País,90515.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,5,Bancos del País,225830.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,5,Bancos del País,12500.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,6,Bancos del Exterior,52270.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,6,Bancos del Exterior,8199.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,6,Bancos del Exterior,43258.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,6,Bancos del Exterior,2611255.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,6,Bancos del Exterior,493715.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,6,Bancos del Exterior,131994.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,6,Bancos del Exterior,770586.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,6,Bancos del Exterior,4390.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,6,Bancos del Exterior,98757.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,6,Bancos del Exterior,293207.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,6,Bancos del Exterior,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,6,Bancos del Exterior,816622.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,6,Bancos del Exterior,778128.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,6,Bancos del Exterior,2346399.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,6,Bancos del Exterior,11569.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,6,Bancos del Exterior,4906.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,6,Bancos del Exterior,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,6,Bancos del Exterior,21949.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,6,Bancos del Exterior,13.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,7,Cheques a Compensar,12776.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,7,Cheques a Compensar,5631.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,7,Cheques a Compensar,40437.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,7,Cheques a Compensar,243399.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,7,Cheques a Compensar,158530.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,7,Cheques a Compensar,60656.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,7,Cheques a Compensar,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,7,Cheques a Compensar,13495.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,7,Cheques a Compensar,10707.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,7,Cheques a Compensar,108627.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,7,Cheques a Compensar,1207.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,7,Cheques a Compensar,104444.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,7,Cheques a Compensar,105741.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,7,Cheques a Compensar,166292.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,7,Cheques a Compensar,1636.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,7,Cheques a Compensar,2978.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,7,Cheques a Compensar,8165.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,7,Cheques a Compensar,1489.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,7,Cheques a Compensar,62.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,8,Giros sobre el Exterior,724.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,8,Giros sobre el Exterior,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,8,Giros sobre el Exterior,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,8,Giros sobre el Exterior,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,8,Giros sobre el Exterior,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,8,Giros sobre el Exterior,49.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,8,Giros sobre el Exterior,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,8,Giros sobre el Exterior,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,8,Giros sobre el Exterior,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,8,Giros sobre el Exterior,403.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,8,Giros sobre el Exterior,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,8,Giros sobre el Exterior,1457.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,8,Giros sobre el Exterior,679.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,8,Giros sobre el Exterior,1255.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,8,Giros sobre el Exterior,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,8,Giros sobre el Exterior,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,8,Giros sobre el Exterior,84.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,8,Giros sobre el Exterior,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,8,Giros sobre el Exterior,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,9,INVERSIONES,6561066.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,9,INVERSIONES,673955.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,9,INVERSIONES,11387139.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,9,INVERSIONES,54585314.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,9,INVERSIONES,59709843.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,9,INVERSIONES,2771222.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,9,INVERSIONES,1931537.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,9,INVERSIONES,287625.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,9,INVERSIONES,1207611.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,9,INVERSIONES,3797805.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,9,INVERSIONES,703985.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,9,INVERSIONES,8407169.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,9,INVERSIONES,6857130.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,9,INVERSIONES,21222866.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,9,INVERSIONES,1020252.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,9,INVERSIONES,277221.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,9,INVERSIONES,1576120.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,9,INVERSIONES,24907.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,9,INVERSIONES,73025.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,10,En Títulos-Valores para Negociación,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,10,En Títulos-Valores para Negociación,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,10,En Títulos-Valores para Negociación,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,10,En Títulos-Valores para Negociación,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,10,En Títulos-Valores para Negociación,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,10,En Títulos-Valores para Negociación,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,10,En Títulos-Valores para Negociación,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,10,En Títulos-Valores para Negociación,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,10,En Títulos-Valores para Negociación,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,10,En Títulos-Valores para Negociación,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,10,En Títulos-Valores para Negociación,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,10,En Títulos-Valores para Negociación,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,10,En Títulos-Valores para Negociación,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,10,En Títulos-Valores para Negociación,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,10,En Títulos-Valores para Negociación,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,10,En Títulos-Valores para Negociación,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,10,En Títulos-Valores para Negociación,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,10,En Títulos-Valores para Negociación,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,10,En Títulos-Valores para Negociación,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,11,En Títulos-Valores para la Venta,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,11,En Títulos-Valores para la Venta,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,11,En Títulos-Valores para la Venta,7619771.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,11,En Títulos-Valores para la Venta,559309.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,11,En Títulos-Valores para la Venta,44987937.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,11,En Títulos-Valores para la Venta,1945742.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,11,En Títulos-Valores para la Venta,1931537.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,11,En Títulos-Valores para la Venta,281207.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,11,En Títulos-Valores para la Venta,1131796.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,11,En Títulos-Valores para la Venta,2479725.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,11,En Títulos-Valores para la Venta,533985.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,11,En Títulos-Valores para la Venta,6187786.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,11,En Títulos-Valores para la Venta,4482776.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,11,En Títulos-Valores para la Venta,17842593.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,11,En Títulos-Valores para la Venta,100252.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,11,En Títulos-Valores para la Venta,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,11,En Títulos-Valores para la Venta,21122.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,11,En Títulos-Valores para la Venta,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,11,En Títulos-Valores para la Venta,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,12,En Títulos-Valores para su Vencimiento,6559314.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,12,En Títulos-Valores para su Vencimiento,675150.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,12,En Títulos-Valores para su Vencimiento,3483678.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,12,En Títulos-Valores para su Vencimiento,53501941.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,12,En Títulos-Valores para su Vencimiento,13591406.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,12,En Títulos-Valores para su Vencimiento,763630.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,12,En Títulos-Valores para su Vencimiento,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,12,En Títulos-Valores para su Vencimiento,783.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,12,En Títulos-Valores para su Vencimiento,23154.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,12,En Títulos-Valores para su Vencimiento,1317051.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,12,En Títulos-Valores para su Vencimiento,170000.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,12,En Títulos-Valores para su Vencimiento,2217590.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,12,En Títulos-Valores para su Vencimiento,2388529.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,12,En Títulos-Valores para su Vencimiento,601602.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,12,En Títulos-Valores para su Vencimiento,920000.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,12,En Títulos-Valores para su Vencimiento,275993.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,12,En Títulos-Valores para su Vencimiento,1566582.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,12,En Títulos-Valores para su Vencimiento,24907.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,12,En Títulos-Valores para su Vencimiento,72571.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,13,Operaciones de Reporto,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,13,Operaciones de Reporto,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,13,Operaciones de Reporto,268567.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,13,Operaciones de Reporto,528727.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,13,Operaciones de Reporto,1050328.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,13,Operaciones de Reporto,63000.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,13,Operaciones de Reporto,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,13,Operaciones de Reporto,6096.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,13,Operaciones de Reporto,52104.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,13,Operaciones de Reporto,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,13,Operaciones de Reporto,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,13,Operaciones de Reporto,45000.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,13,Operaciones de Reporto,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,13,Operaciones de Reporto,2792202.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,13,Operaciones de Reporto,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,13,Operaciones de Reporto,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,13,Operaciones de Reporto,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,13,Operaciones de Reporto,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,13,Operaciones de Reporto,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,14,Certificados de Participación,22244.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,14,Certificados de Participación,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,14,Certificados de Participación,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,14,Certificados de Participación,14200.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,14,Certificados de Participación,396000.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,14,Certificados de Participación,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,14,Certificados de Participación,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,14,Certificados de Participación,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,14,Certificados de Participación,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,14,Certificados de Participación,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,14,Certificados de Participación,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,14,Certificados de Participación,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,14,Certificados de Participación,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,14,Certificados de Participación,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,14,Certificados de Participación,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,14,Certificados de Participación,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,14,Certificados de Participación,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,14,Certificados de Participación,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,14,Certificados de Participación,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,15,Intereses Pagados en Compra de Valores,2471.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,15,Intereses Pagados en Compra de Valores,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,15,Intereses Pagados en Compra de Valores,18328.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,15,Intereses Pagados en Compra de Valores,13197.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,15,Intereses Pagados en Compra de Valores,28635.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,15,Intereses Pagados en Compra de Valores,2612.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,15,Intereses Pagados en Compra de Valores,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,15,Intereses Pagados en Compra de Valores,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,15,Intereses Pagados en Compra de Valores,1654.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,15,Intereses Pagados en Compra de Valores,1541.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,15,Intereses Pagados en Compra de Valores,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,15,Intereses Pagados en Compra de Valores,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,15,Intereses Pagados en Compra de Valores,6150.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,15,Intereses Pagados en Compra de Valores,542.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,15,Intereses Pagados en Compra de Valores,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,15,Intereses Pagados en Compra de Valores,1560.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,15,Intereses Pagados en Compra de Valores,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,15,Intereses Pagados en Compra de Valores,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,15,Intereses Pagados en Compra de Valores,454.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,16,INVERSIONES - SUMA,6584029.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,16,INVERSIONES - SUMA,675150.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,16,INVERSIONES - SUMA,11390344.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,16,INVERSIONES - SUMA,54617374.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,16,INVERSIONES - SUMA,60054306.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,16,INVERSIONES - SUMA,2774985.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,16,INVERSIONES - SUMA,1931537.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,16,INVERSIONES - SUMA,288086.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,16,INVERSIONES - SUMA,1208709.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,16,INVERSIONES - SUMA,3798317.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,16,INVERSIONES - SUMA,703985.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,16,INVERSIONES - SUMA,8450376.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,16,INVERSIONES - SUMA,6877454.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,16,INVERSIONES - SUMA,21236939.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,16,INVERSIONES - SUMA,1020252.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,16,INVERSIONES - SUMA,277553.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,16,INVERSIONES - SUMA,1587704.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,16,INVERSIONES - SUMA,24907.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,16,INVERSIONES - SUMA,73025.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,17,(-) Estimaciones por Valuación,22963.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,17,(-) Estimaciones por Valuación,1195.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,17,(-) Estimaciones por Valuación,3205.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,17,(-) Estimaciones por Valuación,32060.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,17,(-) Estimaciones por Valuación,344463.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,17,(-) Estimaciones por Valuación,3762.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,17,(-) Estimaciones por Valuación,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,17,(-) Estimaciones por Valuación,461.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,17,(-) Estimaciones por Valuación,1098.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,17,(-) Estimaciones por Valuación,512.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,17,(-) Estimaciones por Valuación,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,17,(-) Estimaciones por Valuación,43207.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,17,(-) Estimaciones por Valuación,20324.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,17,(-) Estimaciones por Valuación,14073.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,17,(-) Estimaciones por Valuación,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,17,(-) Estimaciones por Valuación,332.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,17,(-) Estimaciones por Valuación,11584.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,17,(-) Estimaciones por Valuación,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,17,(-) Estimaciones por Valuación,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,18,CARTERA DE CRÉDITOS,6498185.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,18,CARTERA DE CRÉDITOS,2237032.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,18,CARTERA DE CRÉDITOS,31201368.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,18,CARTERA DE CRÉDITOS,113271315.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,18,CARTERA DE CRÉDITOS,70742654.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,18,CARTERA DE CRÉDITOS,14715716.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,18,CARTERA DE CRÉDITOS,169032.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,18,CARTERA DE CRÉDITOS,228790.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,18,CARTERA DE CRÉDITOS,3164325.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,18,CARTERA DE CRÉDITOS,24092293.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,18,CARTERA DE CRÉDITOS,2044766.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,18,CARTERA DE CRÉDITOS,36396202.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,18,CARTERA DE CRÉDITOS,33309308.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,18,CARTERA DE CRÉDITOS,44292762.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,18,CARTERA DE CRÉDITOS,3246406.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,18,CARTERA DE CRÉDITOS,634515.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,18,CARTERA DE CRÉDITOS,93424.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,18,CARTERA DE CRÉDITOS,839881.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,18,CARTERA DE CRÉDITOS,591788.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,19,Vigente,6463299.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,19,Vigente,2232538.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,19,Vigente,31271656.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,19,Vigente,113451139.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,19,Vigente,72695141.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,19,Vigente,14903085.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,19,Vigente,171372.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,19,Vigente,225093.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,19,Vigente,3185790.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,19,Vigente,24302078.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,19,Vigente,2063056.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,19,Vigente,36383590.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,19,Vigente,33367528.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,19,Vigente,44472311.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,19,Vigente,3222769.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,19,Vigente,625494.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,19,Vigente,93882.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,19,Vigente,845893.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,19,Vigente,592928.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,20,Vencidos,368254.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,20,Vencidos,61259.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,20,Vencidos,888231.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,20,Vencidos,2358108.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,20,Vencidos,2268448.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,20,Vencidos,171240.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,20,Vencidos,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,20,Vencidos,13876.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,20,Vencidos,93606.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,20,Vencidos,584807.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,20,Vencidos,80068.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,20,Vencidos,541144.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,20,Vencidos,682783.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,20,Vencidos,811341.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,20,Vencidos,126541.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,20,Vencidos,23314.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,20,Vencidos,270.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,20,Vencidos,4228.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,20,Vencidos,14103.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,21,CARTERA DE CRÉDITOS - SUMA,6831553.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,21,CARTERA DE CRÉDITOS - SUMA,2293797.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,21,CARTERA DE CRÉDITOS - SUMA,32159887.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,21,CARTERA DE CRÉDITOS - SUMA,115809247.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,21,CARTERA DE CRÉDITOS - SUMA,74963588.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,21,CARTERA DE CRÉDITOS - SUMA,15074324.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,21,CARTERA DE CRÉDITOS - SUMA,171372.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,21,CARTERA DE CRÉDITOS - SUMA,238970.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,21,CARTERA DE CRÉDITOS - SUMA,3279396.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,21,CARTERA DE CRÉDITOS - SUMA,24886885.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,21,CARTERA DE CRÉDITOS - SUMA,2143125.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,21,CARTERA DE CRÉDITOS - SUMA,36924734.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,21,CARTERA DE CRÉDITOS - SUMA,34050311.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,21,CARTERA DE CRÉDITOS - SUMA,45283652.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,21,CARTERA DE CRÉDITOS - SUMA,3349310.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,21,CARTERA DE CRÉDITOS - SUMA,648809.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,21,CARTERA DE CRÉDITOS - SUMA,94152.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,21,CARTERA DE CRÉDITOS - SUMA,850121.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,21,CARTERA DE CRÉDITOS - SUMA,607031.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,22,(-) Estimaciones Por Valuación,333368.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,22,(-) Estimaciones Por Valuación,56765.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,22,(-) Estimaciones Por Valuación,958519.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,22,(-) Estimaciones Por Valuación,2537932.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,22,(-) Estimaciones Por Valuación,4220934.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,22,(-) Estimaciones Por Valuación,358608.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,22,(-) Estimaciones Por Valuación,2340.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,22,(-) Estimaciones Por Valuación,10179.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,22,(-) Estimaciones Por Valuación,115071.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,22,(-) Estimaciones Por Valuación,794592.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,22,(-) Estimaciones Por Valuación,98359.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,22,(-) Estimaciones Por Valuación,528532.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,22,(-) Estimaciones Por Valuación,741003.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,22,(-) Estimaciones Por Valuación,990890.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,22,(-) Estimaciones Por Valuación,102904.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,22,(-) Estimaciones Por Valuación,14294.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,22,(-) Estimaciones Por Valuación,728.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,22,(-) Estimaciones Por Valuación,10240.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,22,(-) Estimaciones Por Valuación,15243.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,83316.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,27794.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,610676.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,1210658.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,1905671.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,89057.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,13284.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,680.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,63515.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,403581.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,79551.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,323362.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,340845.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,582372.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,44414.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,7201.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,9417.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,4431.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,23,PRODUCTOS FINANCIEROS POR COBRAR,11054.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,24,CUENTAS POR COBRAR (Neto),452352.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,24,CUENTAS POR COBRAR (Neto),15594.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,24,CUENTAS POR COBRAR (Neto),156834.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,24,CUENTAS POR COBRAR (Neto),1998750.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,24,CUENTAS POR COBRAR (Neto),390555.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,24,CUENTAS POR COBRAR (Neto),157066.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,24,CUENTAS POR COBRAR (Neto),10395.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,24,CUENTAS POR COBRAR (Neto),14696.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,24,CUENTAS POR COBRAR (Neto),16030.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,24,CUENTAS POR COBRAR (Neto),185235.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,24,CUENTAS POR COBRAR (Neto),39680.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,24,CUENTAS POR COBRAR (Neto),348289.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,24,CUENTAS POR COBRAR (Neto),68075.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,24,CUENTAS POR COBRAR (Neto),241102.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,24,CUENTAS POR COBRAR (Neto),28583.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,24,CUENTAS POR COBRAR (Neto),9849.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,24,CUENTAS POR COBRAR (Neto),10025.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,24,CUENTAS POR COBRAR (Neto),2133.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,24,CUENTAS POR COBRAR (Neto),4031.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,25,BIENES REALIZABLES (Neto),158920.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,25,BIENES REALIZABLES (Neto),3660.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,25,BIENES REALIZABLES (Neto),10853.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,25,BIENES REALIZABLES (Neto),118095.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,25,BIENES REALIZABLES (Neto),246003.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,25,BIENES REALIZABLES (Neto),15810.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,25,BIENES REALIZABLES (Neto),0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,25,BIENES REALIZABLES (Neto),16985.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,25,BIENES REALIZABLES (Neto),4714.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,25,BIENES REALIZABLES (Neto),167560.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,25,BIENES REALIZABLES (Neto),0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,25,BIENES REALIZABLES (Neto),92364.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,25,BIENES REALIZABLES (Neto),180323.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,25,BIENES REALIZABLES (Neto),76888.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,25,BIENES REALIZABLES (Neto),0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,25,BIENES REALIZABLES (Neto),8131.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,25,BIENES REALIZABLES (Neto),21540.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,25,BIENES REALIZABLES (Neto),0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,25,BIENES REALIZABLES (Neto),0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,26,INVERSIONES PERMANENTES (Neto),4409.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,26,INVERSIONES PERMANENTES (Neto),612.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,26,INVERSIONES PERMANENTES (Neto),74539.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,26,INVERSIONES PERMANENTES (Neto),626238.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,26,INVERSIONES PERMANENTES (Neto),512766.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,26,INVERSIONES PERMANENTES (Neto),137308.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,26,INVERSIONES PERMANENTES (Neto),180.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,26,INVERSIONES PERMANENTES (Neto),14311.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,26,INVERSIONES PERMANENTES (Neto),3554.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,26,INVERSIONES PERMANENTES (Neto),107999.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,26,INVERSIONES PERMANENTES (Neto),0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,26,INVERSIONES PERMANENTES (Neto),33712.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,26,INVERSIONES PERMANENTES (Neto),53248.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,26,INVERSIONES PERMANENTES (Neto),240164.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,26,INVERSIONES PERMANENTES (Neto),0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,26,INVERSIONES PERMANENTES (Neto),535.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,26,INVERSIONES PERMANENTES (Neto),875.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,26,INVERSIONES PERMANENTES (Neto),0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,26,INVERSIONES PERMANENTES (Neto),249.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,27,OTRAS INVERSIONES (Neto),2530.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,27,OTRAS INVERSIONES (Neto),0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,27,OTRAS INVERSIONES (Neto),76386.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,27,OTRAS INVERSIONES (Neto),400452.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,27,OTRAS INVERSIONES (Neto),141310.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,27,OTRAS INVERSIONES (Neto),5346.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,27,OTRAS INVERSIONES (Neto),0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,27,OTRAS INVERSIONES (Neto),35.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,27,OTRAS INVERSIONES (Neto),216.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,27,OTRAS INVERSIONES (Neto),0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,27,OTRAS INVERSIONES (Neto),0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,27,OTRAS INVERSIONES (Neto),3917.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,27,OTRAS INVERSIONES (Neto),30326.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,27,OTRAS INVERSIONES (Neto),33632.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,27,OTRAS INVERSIONES (Neto),0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,27,OTRAS INVERSIONES (Neto),0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,27,OTRAS INVERSIONES (Neto),18.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,27,OTRAS INVERSIONES (Neto),0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,27,OTRAS INVERSIONES (Neto),0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,29,INMUEBLES Y MUEBLES (Neto),246478.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,29,INMUEBLES Y MUEBLES (Neto),82012.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,29,INMUEBLES Y MUEBLES (Neto),376756.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,29,INMUEBLES Y MUEBLES (Neto),3495866.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,29,INMUEBLES Y MUEBLES (Neto),689969.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,29,INMUEBLES Y MUEBLES (Neto),107428.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,29,INMUEBLES Y MUEBLES (Neto),4456.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,29,INMUEBLES Y MUEBLES (Neto),34938.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,29,INMUEBLES Y MUEBLES (Neto),48818.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,29,INMUEBLES Y MUEBLES (Neto),969276.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,29,INMUEBLES Y MUEBLES (Neto),41873.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,29,INMUEBLES Y MUEBLES (Neto),233796.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,29,INMUEBLES Y MUEBLES (Neto),245820.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,29,INMUEBLES Y MUEBLES (Neto),563290.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,29,INMUEBLES Y MUEBLES (Neto),86109.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,29,INMUEBLES Y MUEBLES (Neto),19690.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,29,INMUEBLES Y MUEBLES (Neto),1727.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,29,INMUEBLES Y MUEBLES (Neto),687.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,29,INMUEBLES Y MUEBLES (Neto),5068.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,30,CARGOS DIFERIDOS (Neto),41967.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,30,CARGOS DIFERIDOS (Neto),33677.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,30,CARGOS DIFERIDOS (Neto),220577.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,30,CARGOS DIFERIDOS (Neto),974987.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,30,CARGOS DIFERIDOS (Neto),1539664.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,30,CARGOS DIFERIDOS (Neto),88682.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,30,CARGOS DIFERIDOS (Neto),21273.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,30,CARGOS DIFERIDOS (Neto),3640.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,30,CARGOS DIFERIDOS (Neto),76906.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,30,CARGOS DIFERIDOS (Neto),220108.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,30,CARGOS DIFERIDOS (Neto),86826.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,30,CARGOS DIFERIDOS (Neto),164008.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,30,CARGOS DIFERIDOS (Neto),210992.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,30,CARGOS DIFERIDOS (Neto),526096.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,30,CARGOS DIFERIDOS (Neto),60681.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,30,CARGOS DIFERIDOS (Neto),832.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,30,CARGOS DIFERIDOS (Neto),7867.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,30,CARGOS DIFERIDOS (Neto),19846.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,30,CARGOS DIFERIDOS (Neto),15063.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,31,PASIVO,15018002.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,31,PASIVO,3201253.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,31,PASIVO,42122686.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,31,PASIVO,182648717.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,31,PASIVO,138521867.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,31,PASIVO,18694076.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,31,PASIVO,3151267.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,31,PASIVO,604161.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,31,PASIVO,4960554.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,31,PASIVO,30109702.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,31,PASIVO,2991863.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,31,PASIVO,46859614.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,31,PASIVO,43404873.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,31,PASIVO,71969982.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,31,PASIVO,4483456.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,31,PASIVO,982596.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,31,PASIVO,1896525.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,31,PASIVO,1070213.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,31,PASIVO,574038.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,32,OBLIGACIONES DEPOSITARIAS,12344457.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,32,OBLIGACIONES DEPOSITARIAS,3143561.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,32,OBLIGACIONES DEPOSITARIAS,39438641.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,32,OBLIGACIONES DEPOSITARIAS,133695070.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,32,OBLIGACIONES DEPOSITARIAS,127577704.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,32,OBLIGACIONES DEPOSITARIAS,16520271.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,32,OBLIGACIONES DEPOSITARIAS,3012825.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,32,OBLIGACIONES DEPOSITARIAS,569736.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,32,OBLIGACIONES DEPOSITARIAS,4330500.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,32,OBLIGACIONES DEPOSITARIAS,26025526.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,32,OBLIGACIONES DEPOSITARIAS,2441515.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,32,OBLIGACIONES DEPOSITARIAS,40251130.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,32,OBLIGACIONES DEPOSITARIAS,38275453.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,32,OBLIGACIONES DEPOSITARIAS,58689375.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,32,OBLIGACIONES DEPOSITARIAS,3739090.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,32,OBLIGACIONES DEPOSITARIAS,950141.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,32,OBLIGACIONES DEPOSITARIAS,1757873.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,32,OBLIGACIONES DEPOSITARIAS,1040589.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,32,OBLIGACIONES DEPOSITARIAS,280167.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,33,Depósitos Monetarios,2820187.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,33,Depósitos Monetarios,535226.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,33,Depósitos Monetarios,3364203.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,33,Depósitos Monetarios,55674307.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,33,Depósitos Monetarios,41529924.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,33,Depósitos Monetarios,5501043.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,33,Depósitos Monetarios,2883244.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,33,Depósitos Monetarios,126285.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,33,Depósitos Monetarios,716764.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,33,Depósitos Monetarios,5852039.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,33,Depósitos Monetarios,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,33,Depósitos Monetarios,19671624.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,33,Depósitos Monetarios,8908147.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,33,Depósitos Monetarios,21633730.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,33,Depósitos Monetarios,716434.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,33,Depósitos Monetarios,89585.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,33,Depósitos Monetarios,72842.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,33,Depósitos Monetarios,433248.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,33,Depósitos Monetarios,12.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,34,Depósitos de Ahorro,2378011.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,34,Depósitos de Ahorro,811920.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,34,Depósitos de Ahorro,11616242.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,34,Depósitos de Ahorro,31994193.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,34,Depósitos de Ahorro,50929161.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,34,Depósitos de Ahorro,5256311.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,34,Depósitos de Ahorro,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,34,Depósitos de Ahorro,176473.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,34,Depósitos de Ahorro,383207.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,34,Depósitos de Ahorro,3486158.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,34,Depósitos de Ahorro,171407.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,34,Depósitos de Ahorro,8436938.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,34,Depósitos de Ahorro,14884158.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,34,Depósitos de Ahorro,24231042.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,34,Depósitos de Ahorro,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,34,Depósitos de Ahorro,57771.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,34,Depósitos de Ahorro,586104.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,34,Depósitos de Ahorro,73893.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,34,Depósitos de Ahorro,2761.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,35,Depósitos a Plazo,6894286.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,35,Depósitos a Plazo,1786793.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,35,Depósitos a Plazo,24430182.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,35,Depósitos a Plazo,45648120.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,35,Depósitos a Plazo,34539573.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,35,Depósitos a Plazo,5649823.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,35,Depósitos a Plazo,113819.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,35,Depósitos a Plazo,266248.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,35,Depósitos a Plazo,3227106.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,35,Depósitos a Plazo,16645970.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,35,Depósitos a Plazo,2261148.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,35,Depósitos a Plazo,12002316.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,35,Depósitos a Plazo,14366368.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,35,Depósitos a Plazo,12636987.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,35,Depósitos a Plazo,3010609.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,35,Depósitos a Plazo,802598.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,35,Depósitos a Plazo,1098496.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,35,Depósitos a Plazo,532018.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,35,Depósitos a Plazo,277394.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,36,Depósitos a la Orden,226770.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,36,Depósitos a la Orden,1132.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,36,Depósitos a la Orden,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,36,Depósitos a la Orden,16522.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,36,Depósitos a la Orden,441090.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,36,Depósitos a la Orden,33415.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,36,Depósitos a la Orden,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,36,Depósitos a la Orden,1.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,36,Depósitos a la Orden,7.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,36,Depósitos a la Orden,13414.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,36,Depósitos a la Orden,8414.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,36,Depósitos a la Orden,32924.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,36,Depósitos a la Orden,38623.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,36,Depósitos a la Orden,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,36,Depósitos a la Orden,33.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,36,Depósitos a la Orden,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,36,Depósitos a la Orden,2.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,36,Depósitos a la Orden,237.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,36,Depósitos a la Orden,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,37,Depósitos con Restricciones,25203.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,37,Depósitos con Restricciones,8490.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,37,Depósitos con Restricciones,28014.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,37,Depósitos con Restricciones,361928.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,37,Depósitos con Restricciones,137957.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,37,Depósitos con Restricciones,79678.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,37,Depósitos con Restricciones,15762.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,37,Depósitos con Restricciones,729.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,37,Depósitos con Restricciones,3416.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,37,Depósitos con Restricciones,27946.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,37,Depósitos con Restricciones,546.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,37,Depósitos con Restricciones,107328.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,37,Depósitos con Restricciones,78156.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,37,Depósitos con Restricciones,187617.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,37,Depósitos con Restricciones,12013.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,37,Depósitos con Restricciones,188.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,37,Depósitos con Restricciones,429.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,37,Depósitos con Restricciones,1193.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,37,Depósitos con Restricciones,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,38,CRÉDITOS OBTENIDOS,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,38,CRÉDITOS OBTENIDOS,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,38,CRÉDITOS OBTENIDOS,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,38,CRÉDITOS OBTENIDOS,35650079.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,38,CRÉDITOS OBTENIDOS,4080090.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,38,CRÉDITOS OBTENIDOS,1527712.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,38,CRÉDITOS OBTENIDOS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,38,CRÉDITOS OBTENIDOS,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,38,CRÉDITOS OBTENIDOS,316036.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,38,CRÉDITOS OBTENIDOS,2294425.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,38,CRÉDITOS OBTENIDOS,340668.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,38,CRÉDITOS OBTENIDOS,3227288.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,38,CRÉDITOS OBTENIDOS,3414436.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,38,CRÉDITOS OBTENIDOS,9399464.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,38,CRÉDITOS OBTENIDOS,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,38,CRÉDITOS OBTENIDOS,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,38,CRÉDITOS OBTENIDOS,50000.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,38,CRÉDITOS OBTENIDOS,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,38,CRÉDITOS OBTENIDOS,258062.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,39,Del Banco Central,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,39,Del Banco Central,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,39,Del Banco Central,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,39,Del Banco Central,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,39,Del Banco Central,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,39,Del Banco Central,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,39,Del Banco Central,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,39,Del Banco Central,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,39,Del Banco Central,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,39,Del Banco Central,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,39,Del Banco Central,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,39,Del Banco Central,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,39,Del Banco Central,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,39,Del Banco Central,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,39,Del Banco Central,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,39,Del Banco Central,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,39,Del Banco Central,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,39,Del Banco Central,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,39,Del Banco Central,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,40,De Instituciones Financieras Nacionales,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,40,De Instituciones Financieras Nacionales,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,40,De Instituciones Financieras Nacionales,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,40,De Instituciones Financieras Nacionales,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,40,De Instituciones Financieras Nacionales,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,40,De Instituciones Financieras Nacionales,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,40,De Instituciones Financieras Nacionales,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,40,De Instituciones Financieras Nacionales,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,40,De Instituciones Financieras Nacionales,190000.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,40,De Instituciones Financieras Nacionales,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,40,De Instituciones Financieras Nacionales,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,40,De Instituciones Financieras Nacionales,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,40,De Instituciones Financieras Nacionales,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,40,De Instituciones Financieras Nacionales,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,40,De Instituciones Financieras Nacionales,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,40,De Instituciones Financieras Nacionales,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,40,De Instituciones Financieras Nacionales,50000.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,40,De Instituciones Financieras Nacionales,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,40,De Instituciones Financieras Nacionales,243000.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,41,De Instituciones Financieras Extranjeras,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,41,De Instituciones Financieras Extranjeras,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,41,De Instituciones Financieras Extranjeras,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,41,De Instituciones Financieras Extranjeras,34464650.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,41,De Instituciones Financieras Extranjeras,4080090.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,41,De Instituciones Financieras Extranjeras,1374941.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,41,De Instituciones Financieras Extranjeras,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,41,De Instituciones Financieras Extranjeras,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,41,De Instituciones Financieras Extranjeras,126036.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,41,De Instituciones Financieras Extranjeras,737764.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,41,De Instituciones Financieras Extranjeras,340668.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,41,De Instituciones Financieras Extranjeras,190960.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,41,De Instituciones Financieras Extranjeras,3414436.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,41,De Instituciones Financieras Extranjeras,8788380.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,41,De Instituciones Financieras Extranjeras,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,41,De Instituciones Financieras Extranjeras,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,41,De Instituciones Financieras Extranjeras,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,41,De Instituciones Financieras Extranjeras,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,41,De Instituciones Financieras Extranjeras,15062.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,42,Organismos Internacionales,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,42,Organismos Internacionales,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,42,Organismos Internacionales,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,42,Organismos Internacionales,1185429.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,42,Organismos Internacionales,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,42,Organismos Internacionales,152771.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,42,Organismos Internacionales,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,42,Organismos Internacionales,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,42,Organismos Internacionales,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,42,Organismos Internacionales,1556661.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,42,Organismos Internacionales,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,42,Organismos Internacionales,3036328.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,42,Organismos Internacionales,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,42,Organismos Internacionales,611085.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,42,Organismos Internacionales,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,42,Organismos Internacionales,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,42,Organismos Internacionales,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,42,Organismos Internacionales,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,42,Organismos Internacionales,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,43,OBLIGACIONES FINANCIERAS,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,43,OBLIGACIONES FINANCIERAS,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,43,OBLIGACIONES FINANCIERAS,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,43,OBLIGACIONES FINANCIERAS,2076492.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,43,OBLIGACIONES FINANCIERAS,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,43,OBLIGACIONES FINANCIERAS,400.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,43,OBLIGACIONES FINANCIERAS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,43,OBLIGACIONES FINANCIERAS,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,43,OBLIGACIONES FINANCIERAS,109100.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,43,OBLIGACIONES FINANCIERAS,343735.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,43,OBLIGACIONES FINANCIERAS,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,43,OBLIGACIONES FINANCIERAS,1910544.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,43,OBLIGACIONES FINANCIERAS,2761.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,43,OBLIGACIONES FINANCIERAS,1697464.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,43,OBLIGACIONES FINANCIERAS,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,43,OBLIGACIONES FINANCIERAS,1819.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,43,OBLIGACIONES FINANCIERAS,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,43,OBLIGACIONES FINANCIERAS,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,43,OBLIGACIONES FINANCIERAS,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,44,GASTOS FINANCIEROS POR PAGAR,44992.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,44,GASTOS FINANCIEROS POR PAGAR,13819.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,44,GASTOS FINANCIEROS POR PAGAR,45617.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,44,GASTOS FINANCIEROS POR PAGAR,940924.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,44,GASTOS FINANCIEROS POR PAGAR,404849.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,44,GASTOS FINANCIEROS POR PAGAR,86651.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,44,GASTOS FINANCIEROS POR PAGAR,847.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,44,GASTOS FINANCIEROS POR PAGAR,1287.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,44,GASTOS FINANCIEROS POR PAGAR,18171.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,44,GASTOS FINANCIEROS POR PAGAR,180253.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,44,GASTOS FINANCIEROS POR PAGAR,15084.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,44,GASTOS FINANCIEROS POR PAGAR,268129.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,44,GASTOS FINANCIEROS POR PAGAR,297648.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,44,GASTOS FINANCIEROS POR PAGAR,178065.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,44,GASTOS FINANCIEROS POR PAGAR,6975.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,44,GASTOS FINANCIEROS POR PAGAR,751.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,44,GASTOS FINANCIEROS POR PAGAR,2896.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,44,GASTOS FINANCIEROS POR PAGAR,11389.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,44,GASTOS FINANCIEROS POR PAGAR,2310.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,45,CUENTAS POR PAGAR,2370832.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,45,CUENTAS POR PAGAR,23166.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,45,CUENTAS POR PAGAR,1404431.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,45,CUENTAS POR PAGAR,2481295.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,45,CUENTAS POR PAGAR,3516827.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,45,CUENTAS POR PAGAR,268542.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,45,CUENTAS POR PAGAR,71264.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,45,CUENTAS POR PAGAR,15721.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,45,CUENTAS POR PAGAR,89239.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,45,CUENTAS POR PAGAR,330518.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,45,CUENTAS POR PAGAR,103199.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,45,CUENTAS POR PAGAR,681391.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,45,CUENTAS POR PAGAR,408711.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,45,CUENTAS POR PAGAR,628131.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,45,CUENTAS POR PAGAR,137894.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,45,CUENTAS POR PAGAR,8941.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,45,CUENTAS POR PAGAR,19795.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,45,CUENTAS POR PAGAR,10101.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,45,CUENTAS POR PAGAR,8004.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,46,PROVISIONES,94857.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,46,PROVISIONES,4412.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,46,PROVISIONES,176877.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,46,PROVISIONES,221109.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,46,PROVISIONES,1635318.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,46,PROVISIONES,115239.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,46,PROVISIONES,61562.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,46,PROVISIONES,3598.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,46,PROVISIONES,31012.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,46,PROVISIONES,99845.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,46,PROVISIONES,25105.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,46,PROVISIONES,219432.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,46,PROVISIONES,205663.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,46,PROVISIONES,136130.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,46,PROVISIONES,213496.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,46,PROVISIONES,2989.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,46,PROVISIONES,6836.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,46,PROVISIONES,1303.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,46,PROVISIONES,6971.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,47,"SUCURSALES, CASA MATRIZ Y DEPARTAMENTOS ADSCRITOS",0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,48,OTRAS OBLIGACIONES,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,48,OTRAS OBLIGACIONES,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,48,OTRAS OBLIGACIONES,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,48,OTRAS OBLIGACIONES,6760126.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,48,OTRAS OBLIGACIONES,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,48,OTRAS OBLIGACIONES,76386.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,48,OTRAS OBLIGACIONES,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,48,OTRAS OBLIGACIONES,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,48,OTRAS OBLIGACIONES,55000.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,48,OTRAS OBLIGACIONES,534699.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,48,OTRAS OBLIGACIONES,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,48,OTRAS OBLIGACIONES,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,48,OTRAS OBLIGACIONES,534699.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,48,OTRAS OBLIGACIONES,840242.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,48,OTRAS OBLIGACIONES,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,48,OTRAS OBLIGACIONES,15277.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,48,OTRAS OBLIGACIONES,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,48,OTRAS OBLIGACIONES,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,48,OTRAS OBLIGACIONES,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,49,CRÉDITOS DIFERIDOS,86991.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,49,CRÉDITOS DIFERIDOS,1523.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,49,CRÉDITOS DIFERIDOS,540615.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,49,CRÉDITOS DIFERIDOS,516638.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,49,CRÉDITOS DIFERIDOS,325731.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,49,CRÉDITOS DIFERIDOS,58013.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,49,CRÉDITOS DIFERIDOS,1192.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,49,CRÉDITOS DIFERIDOS,310.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,49,CRÉDITOS DIFERIDOS,4775.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,49,CRÉDITOS DIFERIDOS,111514.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,49,CRÉDITOS DIFERIDOS,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,49,CRÉDITOS DIFERIDOS,85668.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,49,CRÉDITOS DIFERIDOS,87849.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,49,CRÉDITOS DIFERIDOS,172725.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,49,CRÉDITOS DIFERIDOS,340430.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,49,CRÉDITOS DIFERIDOS,1052.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,49,CRÉDITOS DIFERIDOS,42165.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,49,CRÉDITOS DIFERIDOS,2610.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,49,CRÉDITOS DIFERIDOS,9152.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,50,PASIVO - SUMA,14942129.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,50,PASIVO - SUMA,3186482.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,50,PASIVO - SUMA,41606181.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,50,PASIVO - SUMA,182341733.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,50,PASIVO - SUMA,137540520.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,50,PASIVO - SUMA,18653214.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,50,PASIVO - SUMA,3147691.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,50,PASIVO - SUMA,590652.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,50,PASIVO - SUMA,4953832.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,50,PASIVO - SUMA,29920515.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,50,PASIVO - SUMA,2925571.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,50,PASIVO - SUMA,46643582.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,50,PASIVO - SUMA,43227220.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,50,PASIVO - SUMA,71741595.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,50,PASIVO - SUMA,4437884.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,50,PASIVO - SUMA,980970.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,50,PASIVO - SUMA,1879565.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,50,PASIVO - SUMA,1065992.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,50,PASIVO - SUMA,564667.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,51,OTRAS CUENTAS ACREEDORAS,75873.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,51,OTRAS CUENTAS ACREEDORAS,14771.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,51,OTRAS CUENTAS ACREEDORAS,516506.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,51,OTRAS CUENTAS ACREEDORAS,306984.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,51,OTRAS CUENTAS ACREEDORAS,981348.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,51,OTRAS CUENTAS ACREEDORAS,40862.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,51,OTRAS CUENTAS ACREEDORAS,3576.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,51,OTRAS CUENTAS ACREEDORAS,13509.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,51,OTRAS CUENTAS ACREEDORAS,6722.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,51,OTRAS CUENTAS ACREEDORAS,189187.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,51,OTRAS CUENTAS ACREEDORAS,66292.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,51,OTRAS CUENTAS ACREEDORAS,216032.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,51,OTRAS CUENTAS ACREEDORAS,177653.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,51,OTRAS CUENTAS ACREEDORAS,228387.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,51,OTRAS CUENTAS ACREEDORAS,45571.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,51,OTRAS CUENTAS ACREEDORAS,1626.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,51,OTRAS CUENTAS ACREEDORAS,16960.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,51,OTRAS CUENTAS ACREEDORAS,4221.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,51,OTRAS CUENTAS ACREEDORAS,9371.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,52,CAPITAL CONTABLE,2138925.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,52,CAPITAL CONTABLE,370019.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,52,CAPITAL CONTABLE,8013404.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,52,CAPITAL CONTABLE,17105474.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,52,CAPITAL CONTABLE,17608264.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,52,CAPITAL CONTABLE,2245380.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,52,CAPITAL CONTABLE,345766.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,52,CAPITAL CONTABLE,177558.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,52,CAPITAL CONTABLE,485332.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,52,CAPITAL CONTABLE,3754609.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,52,CAPITAL CONTABLE,427128.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,52,CAPITAL CONTABLE,5145661.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,52,CAPITAL CONTABLE,4395953.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,52,CAPITAL CONTABLE,7595142.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,52,CAPITAL CONTABLE,625346.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,52,CAPITAL CONTABLE,132295.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,52,CAPITAL CONTABLE,204027.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,52,CAPITAL CONTABLE,209871.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,52,CAPITAL CONTABLE,180925.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,53,CAPITAL PAGADO,1501058.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,53,CAPITAL PAGADO,289606.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,53,CAPITAL PAGADO,43271.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,53,CAPITAL PAGADO,2637927.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,53,CAPITAL PAGADO,2981465.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,53,CAPITAL PAGADO,855712.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,53,CAPITAL PAGADO,84982.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,53,CAPITAL PAGADO,128398.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,53,CAPITAL PAGADO,386318.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,53,CAPITAL PAGADO,598159.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,53,CAPITAL PAGADO,160000.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,53,CAPITAL PAGADO,1260764.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,53,CAPITAL PAGADO,1298432.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,53,CAPITAL PAGADO,2268012.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,53,CAPITAL PAGADO,105001.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,53,CAPITAL PAGADO,109000.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,53,CAPITAL PAGADO,172000.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,53,CAPITAL PAGADO,250000.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,53,CAPITAL PAGADO,172000.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,54,Capital Autorizado,5000000.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,54,Capital Autorizado,600000.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,54,Capital Autorizado,200000.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,54,Capital Autorizado,4000000.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,54,Capital Autorizado,50000000.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,54,Capital Autorizado,2000000.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,54,Capital Autorizado,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,54,Capital Autorizado,300000.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,54,Capital Autorizado,700000.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,54,Capital Autorizado,5000000.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,54,Capital Autorizado,225000.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,54,Capital Autorizado,2800000.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,54,Capital Autorizado,2000000.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,54,Capital Autorizado,7000000.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,54,Capital Autorizado,200000.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,54,Capital Autorizado,500000.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,54,Capital Autorizado,1000000.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,54,Capital Autorizado,800000.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,54,Capital Autorizado,1000000.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,55,(-) Capital No Pagado,3498942.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,55,(-) Capital No Pagado,310394.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,55,(-) Capital No Pagado,156729.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,55,(-) Capital No Pagado,1362073.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,55,(-) Capital No Pagado,47018535.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,55,(-) Capital No Pagado,1144288.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,55,(-) Capital No Pagado,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,55,(-) Capital No Pagado,171602.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,55,(-) Capital No Pagado,313682.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,55,(-) Capital No Pagado,4401841.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,55,(-) Capital No Pagado,65000.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,55,(-) Capital No Pagado,1539236.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,55,(-) Capital No Pagado,701568.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,55,(-) Capital No Pagado,4731988.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,55,(-) Capital No Pagado,94999.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,55,(-) Capital No Pagado,391000.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,55,(-) Capital No Pagado,828000.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,55,(-) Capital No Pagado,550000.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,55,(-) Capital No Pagado,828000.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,56,"Casa Matriz, Capital Asignado",0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,56,"Casa Matriz, Capital Asignado",0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,56,"Casa Matriz, Capital Asignado",0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,56,"Casa Matriz, Capital Asignado",0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,56,"Casa Matriz, Capital Asignado",0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,56,"Casa Matriz, Capital Asignado",0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,56,"Casa Matriz, Capital Asignado",84982.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,56,"Casa Matriz, Capital Asignado",0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,56,"Casa Matriz, Capital Asignado",0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,56,"Casa Matriz, Capital Asignado",0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,56,"Casa Matriz, Capital Asignado",0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,56,"Casa Matriz, Capital Asignado",0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,56,"Casa Matriz, Capital Asignado",0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,56,"Casa Matriz, Capital Asignado",0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,56,"Casa Matriz, Capital Asignado",0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,56,"Casa Matriz, Capital Asignado",0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,56,"Casa Matriz, Capital Asignado",0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,56,"Casa Matriz, Capital Asignado",0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,56,"Casa Matriz, Capital Asignado",0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,57,APORTACIONES PERMANENTES,1796.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,57,APORTACIONES PERMANENTES,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,57,APORTACIONES PERMANENTES,8.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,57,APORTACIONES PERMANENTES,1882421.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,57,APORTACIONES PERMANENTES,187607.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,57,APORTACIONES PERMANENTES,50.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,57,APORTACIONES PERMANENTES,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,57,APORTACIONES PERMANENTES,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,57,APORTACIONES PERMANENTES,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,57,APORTACIONES PERMANENTES,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,57,APORTACIONES PERMANENTES,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,57,APORTACIONES PERMANENTES,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,57,APORTACIONES PERMANENTES,595620.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,57,APORTACIONES PERMANENTES,553476.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,57,APORTACIONES PERMANENTES,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,57,APORTACIONES PERMANENTES,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,57,APORTACIONES PERMANENTES,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,57,APORTACIONES PERMANENTES,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,57,APORTACIONES PERMANENTES,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,58,RESERVA DE CAPITAL,1499069.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,58,RESERVA DE CAPITAL,13191.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,58,RESERVA DE CAPITAL,7063943.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,58,RESERVA DE CAPITAL,8480363.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,58,RESERVA DE CAPITAL,10862331.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,58,RESERVA DE CAPITAL,936763.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,58,RESERVA DE CAPITAL,74378.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,58,RESERVA DE CAPITAL,12749.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,58,RESERVA DE CAPITAL,18992.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,58,RESERVA DE CAPITAL,1722129.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,58,RESERVA DE CAPITAL,23940.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,58,RESERVA DE CAPITAL,1161105.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,58,RESERVA DE CAPITAL,767082.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,58,RESERVA DE CAPITAL,3451868.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,58,RESERVA DE CAPITAL,356090.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,58,RESERVA DE CAPITAL,3718.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,58,RESERVA DE CAPITAL,4593.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,58,RESERVA DE CAPITAL,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,58,RESERVA DE CAPITAL,662.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,59,RESERVAS PARA ACTIVOS EXTRAORDINARIOS,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,60,REVALUACIÓN DE ACTIVOS,128770.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,60,REVALUACIÓN DE ACTIVOS,50190.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,60,REVALUACIÓN DE ACTIVOS,18415.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,60,REVALUACIÓN DE ACTIVOS,54504.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,60,REVALUACIÓN DE ACTIVOS,20323.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,60,REVALUACIÓN DE ACTIVOS,10729.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,60,REVALUACIÓN DE ACTIVOS,23802.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,60,REVALUACIÓN DE ACTIVOS,430026.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,60,REVALUACIÓN DE ACTIVOS,16137.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,60,REVALUACIÓN DE ACTIVOS,14760.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,60,REVALUACIÓN DE ACTIVOS,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,61,OBLIGACIONES SUBORDINADAS,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,61,OBLIGACIONES SUBORDINADAS,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,61,OBLIGACIONES SUBORDINADAS,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,62,GANANCIAS Y PÉRDIDAS POR FUSIÓN,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,63,VALUACIÓN DE ACTIVOS DE RECUPERACIÓN DUDOSA,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,118356.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,64,PROVISION DE BENEFICIOS A EMPLEADOS,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,-600.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,65,AJUSTES AL IMPUESTO SOBRE LA RENTA,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-3909.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-26020.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-124508.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-3407.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-35463.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-54088.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-29330.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,-55086.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,66,GANANCIAS O PÉRDIDAS POR CAMBIOS EN EL VALOR DE MERCADO DE LAS INVERSIONES,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,-1143093.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,-9012.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,0.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,666345.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,0.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,0.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,113548.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,3627.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,45125.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,342748.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,148048.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,1912016.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,1046886.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,0.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,7291.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,17666.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,-45485.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,67,RESULTADOS DE EJERCICIOS ANTERIORES,1754.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,68,RESULTADOS DEL EJERCICIO,53015.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,68,RESULTADOS DEL EJERCICIO,524.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,68,RESULTADOS DEL EJERCICIO,602045.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,68,RESULTADOS DEL EJERCICIO,2262064.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,68,RESULTADOS DEL EJERCICIO,2947821.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,68,RESULTADOS DEL EJERCICIO,257628.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,68,RESULTADOS DEL EJERCICIO,70384.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,68,RESULTADOS DEL EJERCICIO,4251.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,68,RESULTADOS DEL EJERCICIO,10779.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,68,RESULTADOS DEL EJERCICIO,477810.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,68,RESULTADOS DEL EJERCICIO,69322.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,68,RESULTADOS DEL EJERCICIO,474136.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,68,RESULTADOS DEL EJERCICIO,392763.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,68,RESULTADOS DEL EJERCICIO,850163.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,68,RESULTADOS DEL EJERCICIO,116234.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,68,RESULTADOS DEL EJERCICIO,6937.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,68,RESULTADOS DEL EJERCICIO,8077.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,68,RESULTADOS DEL EJERCICIO,5956.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,68,RESULTADOS DEL EJERCICIO,4609.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,17156927.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,3571272.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,50136090.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,199754191.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,156130131.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,20939455.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,3497033.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,781719.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,5445886.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,33864311.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,3418992.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,52005275.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,47800826.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,79565125.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,5108801.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,1114892.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,2100552.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,1280084.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,balance,69,TOTAL IGUAL A LA SUMA DEL ACTIVO,754963.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,72,PRODUCTOS FINANCIEROS,702509.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,72,PRODUCTOS FINANCIEROS,223726.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,72,PRODUCTOS FINANCIEROS,4637438.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,72,PRODUCTOS FINANCIEROS,10398999.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,72,PRODUCTOS FINANCIEROS,10162352.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,72,PRODUCTOS FINANCIEROS,1107460.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,72,PRODUCTOS FINANCIEROS,169271.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,72,PRODUCTOS FINANCIEROS,52023.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,72,PRODUCTOS FINANCIEROS,543575.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,72,PRODUCTOS FINANCIEROS,3641023.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,72,PRODUCTOS FINANCIEROS,722670.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,72,PRODUCTOS FINANCIEROS,3069903.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,72,PRODUCTOS FINANCIEROS,2998843.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,72,PRODUCTOS FINANCIEROS,4575758.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,72,PRODUCTOS FINANCIEROS,1484197.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,72,PRODUCTOS FINANCIEROS,70336.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,72,PRODUCTOS FINANCIEROS,114569.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,72,PRODUCTOS FINANCIEROS,68172.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,72,PRODUCTOS FINANCIEROS,116832.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,73,GASTOS FINANCIEROS,466100.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,73,GASTOS FINANCIEROS,111999.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,73,GASTOS FINANCIEROS,1757024.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,73,GASTOS FINANCIEROS,4927507.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,73,GASTOS FINANCIEROS,2975345.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,73,GASTOS FINANCIEROS,526365.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,73,GASTOS FINANCIEROS,37500.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,73,GASTOS FINANCIEROS,21982.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,73,GASTOS FINANCIEROS,245484.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,73,GASTOS FINANCIEROS,1242171.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,73,GASTOS FINANCIEROS,149786.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,73,GASTOS FINANCIEROS,1195635.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,73,GASTOS FINANCIEROS,1366250.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,73,GASTOS FINANCIEROS,2175625.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,73,GASTOS FINANCIEROS,181345.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,73,GASTOS FINANCIEROS,44049.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,73,GASTOS FINANCIEROS,82584.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,73,GASTOS FINANCIEROS,31790.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,73,GASTOS FINANCIEROS,25683.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,74,MARGEN POR INVERSIÓN,236410.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,74,MARGEN POR INVERSIÓN,111726.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,74,MARGEN POR INVERSIÓN,2880415.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,74,MARGEN POR INVERSIÓN,5471492.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,74,MARGEN POR INVERSIÓN,7187007.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,74,MARGEN POR INVERSIÓN,581094.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,74,MARGEN POR INVERSIÓN,131772.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,74,MARGEN POR INVERSIÓN,30042.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,74,MARGEN POR INVERSIÓN,298091.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,74,MARGEN POR INVERSIÓN,2398852.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,74,MARGEN POR INVERSIÓN,572884.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,74,MARGEN POR INVERSIÓN,1874268.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,74,MARGEN POR INVERSIÓN,1632593.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,74,MARGEN POR INVERSIÓN,2400133.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,74,MARGEN POR INVERSIÓN,1302852.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,74,MARGEN POR INVERSIÓN,26287.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,74,MARGEN POR INVERSIÓN,31984.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,74,MARGEN POR INVERSIÓN,36383.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,74,MARGEN POR INVERSIÓN,91149.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,75,PRODUCTOS POR SERVICIOS,606323.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,75,PRODUCTOS POR SERVICIOS,16176.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,75,PRODUCTOS POR SERVICIOS,100405.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,75,PRODUCTOS POR SERVICIOS,1021330.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,75,PRODUCTOS POR SERVICIOS,1388250.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,75,PRODUCTOS POR SERVICIOS,81712.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,75,PRODUCTOS POR SERVICIOS,8610.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,75,PRODUCTOS POR SERVICIOS,2436.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,75,PRODUCTOS POR SERVICIOS,23802.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,75,PRODUCTOS POR SERVICIOS,361525.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,75,PRODUCTOS POR SERVICIOS,36245.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,75,PRODUCTOS POR SERVICIOS,126736.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,75,PRODUCTOS POR SERVICIOS,265940.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,75,PRODUCTOS POR SERVICIOS,432945.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,75,PRODUCTOS POR SERVICIOS,155528.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,75,PRODUCTOS POR SERVICIOS,1986.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,75,PRODUCTOS POR SERVICIOS,9255.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,75,PRODUCTOS POR SERVICIOS,8242.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,75,PRODUCTOS POR SERVICIOS,6532.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,76,GASTOS POR SERVICIOS,23765.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,76,GASTOS POR SERVICIOS,8660.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,76,GASTOS POR SERVICIOS,66608.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,76,GASTOS POR SERVICIOS,77501.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,76,GASTOS POR SERVICIOS,206130.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,76,GASTOS POR SERVICIOS,2629.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,76,GASTOS POR SERVICIOS,0.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,76,GASTOS POR SERVICIOS,1054.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,76,GASTOS POR SERVICIOS,61411.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,76,GASTOS POR SERVICIOS,115186.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,76,GASTOS POR SERVICIOS,73875.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,76,GASTOS POR SERVICIOS,27763.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,76,GASTOS POR SERVICIOS,150948.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,76,GASTOS POR SERVICIOS,111419.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,76,GASTOS POR SERVICIOS,43139.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,76,GASTOS POR SERVICIOS,1042.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,76,GASTOS POR SERVICIOS,789.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,76,GASTOS POR SERVICIOS,767.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,76,GASTOS POR SERVICIOS,532.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,77,MARGEN POR SERVICIOS,582558.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,77,MARGEN POR SERVICIOS,7515.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,77,MARGEN POR SERVICIOS,33796.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,77,MARGEN POR SERVICIOS,943828.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,77,MARGEN POR SERVICIOS,1182119.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,77,MARGEN POR SERVICIOS,79083.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,77,MARGEN POR SERVICIOS,8610.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,77,MARGEN POR SERVICIOS,1383.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,77,MARGEN POR SERVICIOS,-37609.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,77,MARGEN POR SERVICIOS,246339.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,77,MARGEN POR SERVICIOS,-37630.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,77,MARGEN POR SERVICIOS,98973.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,77,MARGEN POR SERVICIOS,114992.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,77,MARGEN POR SERVICIOS,321526.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,77,MARGEN POR SERVICIOS,112390.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,77,MARGEN POR SERVICIOS,944.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,77,MARGEN POR SERVICIOS,8466.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,77,MARGEN POR SERVICIOS,7475.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,77,MARGEN POR SERVICIOS,6000.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,4015.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,5587.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,57816.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,869794.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,584903.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,84392.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,117211.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,2404.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,8725.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,105463.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,80.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,306818.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,215964.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,125919.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,6826.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,1086.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,444.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,4826.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,79,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Productos,219.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,87241.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,24351.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,855806.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,1387562.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,1089775.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,68903.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,15862.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,5537.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,197590.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,1386378.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,206009.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,690902.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,730151.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,629299.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,339416.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,4463.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,4473.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,6950.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,80,OTROS PRODUCTOS Y GASTOS DE OPERACIÓN - Gastos,28061.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-83226.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-18764.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-797990.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-517768.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-504872.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,15489.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,101349.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-3133.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-188864.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-1280915.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-205930.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-384084.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-514187.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-503380.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-332589.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-3377.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-4029.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-2124.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,81,MARGEN OTROS PRODUCTOS Y GASTOS DE OPERACIÓN,-27841.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,82,MARGEN OPERACIONAL BRUTO,735742.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,82,MARGEN OPERACIONAL BRUTO,100477.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,82,MARGEN OPERACIONAL BRUTO,2116221.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,82,MARGEN OPERACIONAL BRUTO,5897552.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,82,MARGEN OPERACIONAL BRUTO,7864255.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,82,MARGEN OPERACIONAL BRUTO,675667.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,82,MARGEN OPERACIONAL BRUTO,241730.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,82,MARGEN OPERACIONAL BRUTO,28291.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,82,MARGEN OPERACIONAL BRUTO,71618.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,82,MARGEN OPERACIONAL BRUTO,1364276.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,82,MARGEN OPERACIONAL BRUTO,329324.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,82,MARGEN OPERACIONAL BRUTO,1589157.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,82,MARGEN OPERACIONAL BRUTO,1233398.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,82,MARGEN OPERACIONAL BRUTO,2218279.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,82,MARGEN OPERACIONAL BRUTO,1082652.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,82,MARGEN OPERACIONAL BRUTO,23854.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,82,MARGEN OPERACIONAL BRUTO,36421.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,82,MARGEN OPERACIONAL BRUTO,41734.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,82,MARGEN OPERACIONAL BRUTO,69308.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,83,GASTOS DE ADMINISTRACIÓN,405774.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,83,GASTOS DE ADMINISTRACIÓN,100815.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,83,GASTOS DE ADMINISTRACIÓN,1577059.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,83,GASTOS DE ADMINISTRACIÓN,3536017.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,83,GASTOS DE ADMINISTRACIÓN,4447618.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,83,GASTOS DE ADMINISTRACIÓN,369580.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,83,GASTOS DE ADMINISTRACIÓN,146863.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,83,GASTOS DE ADMINISTRACIÓN,28945.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,83,GASTOS DE ADMINISTRACIÓN,207094.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,83,GASTOS DE ADMINISTRACIÓN,1069259.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,83,GASTOS DE ADMINISTRACIÓN,254447.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,83,GASTOS DE ADMINISTRACIÓN,1195316.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,83,GASTOS DE ADMINISTRACIÓN,911092.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,83,GASTOS DE ADMINISTRACIÓN,1400982.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,83,GASTOS DE ADMINISTRACIÓN,977497.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,83,GASTOS DE ADMINISTRACIÓN,17870.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,83,GASTOS DE ADMINISTRACIÓN,29645.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,83,GASTOS DE ADMINISTRACIÓN,36186.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,83,GASTOS DE ADMINISTRACIÓN,64132.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,84,MARGEN OPERACIONAL NETO,329968.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,84,MARGEN OPERACIONAL NETO,-337.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,84,MARGEN OPERACIONAL NETO,539162.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,84,MARGEN OPERACIONAL NETO,2361534.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,84,MARGEN OPERACIONAL NETO,3416637.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,84,MARGEN OPERACIONAL NETO,306087.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,84,MARGEN OPERACIONAL NETO,94867.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,84,MARGEN OPERACIONAL NETO,-653.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,84,MARGEN OPERACIONAL NETO,-135476.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,84,MARGEN OPERACIONAL NETO,295017.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,84,MARGEN OPERACIONAL NETO,74877.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,84,MARGEN OPERACIONAL NETO,393841.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,84,MARGEN OPERACIONAL NETO,322306.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,84,MARGEN OPERACIONAL NETO,817297.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,84,MARGEN OPERACIONAL NETO,105156.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,84,MARGEN OPERACIONAL NETO,5984.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,84,MARGEN OPERACIONAL NETO,6776.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,84,MARGEN OPERACIONAL NETO,5548.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,84,MARGEN OPERACIONAL NETO,5177.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,-289650.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,-283.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,136536.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,117231.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,142727.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,7204.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,67.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,4531.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,152011.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,189273.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,16334.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,127033.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,136730.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,156504.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,50609.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,873.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,1389.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,290.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,85,PRODUCTOS Y GASTOS EXTRAORDINARIOS,849.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,86,Productos Extraordinarios,216573.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,86,Productos Extraordinarios,432.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,86,Productos Extraordinarios,138407.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,86,Productos Extraordinarios,126187.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,86,Productos Extraordinarios,217470.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,86,Productos Extraordinarios,9555.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,86,Productos Extraordinarios,399.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,86,Productos Extraordinarios,5980.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,86,Productos Extraordinarios,153158.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,86,Productos Extraordinarios,201042.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,86,Productos Extraordinarios,16507.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,86,Productos Extraordinarios,138242.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,86,Productos Extraordinarios,143457.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,86,Productos Extraordinarios,162237.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,86,Productos Extraordinarios,55845.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,86,Productos Extraordinarios,873.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,86,Productos Extraordinarios,1658.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,86,Productos Extraordinarios,304.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,86,Productos Extraordinarios,1127.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,87,Gastos Extraordinarios,506223.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,87,Gastos Extraordinarios,715.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,87,Gastos Extraordinarios,1871.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,87,Gastos Extraordinarios,8956.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,87,Gastos Extraordinarios,74744.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,87,Gastos Extraordinarios,2350.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,87,Gastos Extraordinarios,331.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,87,Gastos Extraordinarios,1449.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,87,Gastos Extraordinarios,1146.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,87,Gastos Extraordinarios,11770.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,87,Gastos Extraordinarios,173.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,87,Gastos Extraordinarios,11208.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,87,Gastos Extraordinarios,6726.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,87,Gastos Extraordinarios,5733.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,87,Gastos Extraordinarios,5236.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,87,Gastos Extraordinarios,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,87,Gastos Extraordinarios,269.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,87,Gastos Extraordinarios,15.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,87,Gastos Extraordinarios,278.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,12697.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,1145.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,11399.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,34001.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,23208.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,-157.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,-354.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,533.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,-5756.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,52541.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,1752.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,1913.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,650.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,-45660.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,80.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,-13.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,119.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,88,PRODUCTOS Y GASTOS DE EJERCICIOS ANTERIORES,-170.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,89,Productos de Ejercicios Anteriores,21660.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,89,Productos de Ejercicios Anteriores,1777.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,89,Productos de Ejercicios Anteriores,13869.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,89,Productos de Ejercicios Anteriores,37013.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,89,Productos de Ejercicios Anteriores,26792.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,89,Productos de Ejercicios Anteriores,98.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,89,Productos de Ejercicios Anteriores,248.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,89,Productos de Ejercicios Anteriores,610.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,89,Productos de Ejercicios Anteriores,119.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,89,Productos de Ejercicios Anteriores,53497.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,89,Productos de Ejercicios Anteriores,1980.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,89,Productos de Ejercicios Anteriores,2756.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,89,Productos de Ejercicios Anteriores,4289.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,89,Productos de Ejercicios Anteriores,16989.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,89,Productos de Ejercicios Anteriores,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,89,Productos de Ejercicios Anteriores,98.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,89,Productos de Ejercicios Anteriores,64.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,89,Productos de Ejercicios Anteriores,157.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,89,Productos de Ejercicios Anteriores,0.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,90,Gastos de Ejercicios Anteriores,8963.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,90,Gastos de Ejercicios Anteriores,632.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,90,Gastos de Ejercicios Anteriores,2469.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,90,Gastos de Ejercicios Anteriores,3013.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,90,Gastos de Ejercicios Anteriores,3584.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,90,Gastos de Ejercicios Anteriores,254.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,90,Gastos de Ejercicios Anteriores,602.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,90,Gastos de Ejercicios Anteriores,77.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,90,Gastos de Ejercicios Anteriores,5875.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,90,Gastos de Ejercicios Anteriores,956.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,90,Gastos de Ejercicios Anteriores,229.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,90,Gastos de Ejercicios Anteriores,843.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,90,Gastos de Ejercicios Anteriores,3639.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,90,Gastos de Ejercicios Anteriores,62649.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,90,Gastos de Ejercicios Anteriores,0.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,90,Gastos de Ejercicios Anteriores,17.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,90,Gastos de Ejercicios Anteriores,77.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,90,Gastos de Ejercicios Anteriores,38.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,90,Gastos de Ejercicios Anteriores,170.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,91,GANANCIA (PÉRDIDA) BRUTA,53015.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,91,GANANCIA (PÉRDIDA) BRUTA,524.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,91,GANANCIA (PÉRDIDA) BRUTA,687097.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,91,GANANCIA (PÉRDIDA) BRUTA,2512766.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,91,GANANCIA (PÉRDIDA) BRUTA,3582572.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,91,GANANCIA (PÉRDIDA) BRUTA,313135.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,91,GANANCIA (PÉRDIDA) BRUTA,94581.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,91,GANANCIA (PÉRDIDA) BRUTA,4410.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,91,GANANCIA (PÉRDIDA) BRUTA,10779.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,91,GANANCIA (PÉRDIDA) BRUTA,536830.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,91,GANANCIA (PÉRDIDA) BRUTA,92963.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,91,GANANCIA (PÉRDIDA) BRUTA,522787.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,91,GANANCIA (PÉRDIDA) BRUTA,459686.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,91,GANANCIA (PÉRDIDA) BRUTA,928142.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,91,GANANCIA (PÉRDIDA) BRUTA,155765.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,91,GANANCIA (PÉRDIDA) BRUTA,6937.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,91,GANANCIA (PÉRDIDA) BRUTA,8152.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,91,GANANCIA (PÉRDIDA) BRUTA,5956.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,91,GANANCIA (PÉRDIDA) BRUTA,5855.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,92,IMPUESTO SOBRE LA RENTA,0.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,92,IMPUESTO SOBRE LA RENTA,0.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,92,IMPUESTO SOBRE LA RENTA,85052.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,92,IMPUESTO SOBRE LA RENTA,250702.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,92,IMPUESTO SOBRE LA RENTA,634751.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,92,IMPUESTO SOBRE LA RENTA,55506.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,92,IMPUESTO SOBRE LA RENTA,24197.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,92,IMPUESTO SOBRE LA RENTA,159.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,92,IMPUESTO SOBRE LA RENTA,0.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,92,IMPUESTO SOBRE LA RENTA,59021.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,92,IMPUESTO SOBRE LA RENTA,23641.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,92,IMPUESTO SOBRE LA RENTA,48651.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,92,IMPUESTO SOBRE LA RENTA,66923.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,92,IMPUESTO SOBRE LA RENTA,77979.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,92,IMPUESTO SOBRE LA RENTA,39531.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,92,IMPUESTO SOBRE LA RENTA,0.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,92,IMPUESTO SOBRE LA RENTA,75.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,92,IMPUESTO SOBRE LA RENTA,0.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,92,IMPUESTO SOBRE LA RENTA,1247.0,"MULTIMONEY, S. A.",Consulta-12.xls
+2026-09-30,CHN,resultados,93,GANANCIA (PÉRDIDA) NETA,53015.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-12.xls
+2026-09-30,Cuscatlán,resultados,93,GANANCIA (PÉRDIDA) NETA,524.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Bantrab,resultados,93,GANANCIA (PÉRDIDA) NETA,602045.0,DE LOS TRABAJADORES,Consulta-12.xls
+2026-09-30,Industrial,resultados,93,GANANCIA (PÉRDIDA) NETA,2262064.0,"INDUSTRIAL, S. A.",Consulta-12.xls
+2026-09-30,Banrural,resultados,93,GANANCIA (PÉRDIDA) NETA,2947821.0,"DE DESARROLLO RURAL, S. A.",Consulta-12.xls
+2026-09-30,Interbanco,resultados,93,GANANCIA (PÉRDIDA) NETA,257628.0,"INTERNACIONAL, S. A.",Consulta-12.xls
+2026-09-30,Citibank,resultados,93,GANANCIA (PÉRDIDA) NETA,70384.0,"CITIBANK, N.A., SUCURSAL GUATEMALA",Consulta-12.xls
+2026-09-30,Vivibanco,resultados,93,GANANCIA (PÉRDIDA) NETA,4251.0,"VIVIBANCO, S. A.",Consulta-12.xls
+2026-09-30,Ficohsa,resultados,93,GANANCIA (PÉRDIDA) NETA,10779.0,"FICOHSA GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,Promerica,resultados,93,GANANCIA (PÉRDIDA) NETA,477810.0,"PROMERICA, S. A.",Consulta-12.xls
+2026-09-30,Antigua,resultados,93,GANANCIA (PÉRDIDA) NETA,69322.0,"DE ANTIGUA, S. A.",Consulta-12.xls
+2026-09-30,BAC,resultados,93,GANANCIA (PÉRDIDA) NETA,474136.0,"DE AMÉRICA CENTRAL, S. A.",Consulta-12.xls
+2026-09-30,BAM,resultados,93,GANANCIA (PÉRDIDA) NETA,392763.0,"AGROMERCANTIL DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,G&T Continental,resultados,93,GANANCIA (PÉRDIDA) NETA,850163.0,"G&T CONTINENTAL, S. A.",Consulta-12.xls
+2026-09-30,Azteca,resultados,93,GANANCIA (PÉRDIDA) NETA,116234.0,"AZTECA DE GUATEMALA, S. A.",Consulta-12.xls
+2026-09-30,INV,resultados,93,GANANCIA (PÉRDIDA) NETA,6937.0,"INV, S. A.",Consulta-12.xls
+2026-09-30,Credicorp,resultados,93,GANANCIA (PÉRDIDA) NETA,8077.0,"CREDICORP, S. A.",Consulta-12.xls
+2026-09-30,Nexa,resultados,93,GANANCIA (PÉRDIDA) NETA,5956.0,"NEXA, S. A.",Consulta-12.xls
+2026-09-30,Multimoney,resultados,93,GANANCIA (PÉRDIDA) NETA,4609.0,"MULTIMONEY, S. A.",Consulta-12.xls
 2024-12-31,CHN,balance,1,ACTIVO,13224602.0,EL CRÉDITO HIPOTECARIO NACIONAL DE GUATEMALA,Consulta-2.xls
 2024-12-31,Cuscatlán,balance,1,ACTIVO,2769211.0,"CUSCATLÁN GUATEMALA, S. A.",Consulta-2.xls
 2024-12-31,Bantrab,balance,1,ACTIVO,42606106.0,DE LOS TRABAJADORES,Consulta-2.xls

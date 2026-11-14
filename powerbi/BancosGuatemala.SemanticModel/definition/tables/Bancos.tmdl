@@ -1,0 +1,57 @@
+table Bancos
+	lineageTag: 9acd6f17-4177-5d87-8c01-9a3a42ccc33f
+
+	column banco
+		dataType: string
+		summarizeBy: none
+		lineageTag: 1ee9fda3-3bc1-5903-8854-29eae62f431c
+		sourceColumn: banco
+
+	column nombre_oficial
+		dataType: string
+		summarizeBy: none
+		lineageTag: 617f9315-21a6-51a3-97df-9969b4762dba
+		sourceColumn: nombre_oficial
+
+	column primer_corte
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		summarizeBy: none
+		lineageTag: e4d72128-e95a-5f87-9bdf-27a005398a98
+		sourceColumn: primer_corte
+
+	column ultimo_corte
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		summarizeBy: none
+		lineageTag: 30406385-6514-5e95-b1ca-67053723393b
+		sourceColumn: ultimo_corte
+
+	column grupo
+		dataType: string
+		summarizeBy: none
+		lineageTag: 5f8a01fe-a683-5df7-b568-cf5891bae2bb
+		sourceColumn: grupo
+
+	column estado
+		dataType: string
+		summarizeBy: none
+		lineageTag: b5689901-7cfc-5fa0-88f1-45034f4a28cd
+		sourceColumn: estado
+
+	partition Bancos = m
+		mode: import
+		source =
+				let
+					Origen = Csv.Document(Web.Contents(RutaDatos & "bancos.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+					Tipos = Table.TransformColumnTypes(Encabezados, {
+						{"banco", type text},
+						{"nombre_oficial", type text},
+						{"primer_corte", type date},
+						{"ultimo_corte", type date},
+						{"grupo", type text},
+						{"estado", type text}
+					}, "en-US")
+				in
+					Tipos

@@ -1,0 +1,3 @@
+/// Carpeta (URL o ruta local terminada en / o \) donde están bancos.csv, fechas.csv y cuentas.csv.
+expression RutaDatos = "https://raw.githubusercontent.com/Berius129/bancos-guatemala/main/data/processed/powerbi/" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: e9ff76bc-e6e9-5b39-9fcd-80a7a1215d6e

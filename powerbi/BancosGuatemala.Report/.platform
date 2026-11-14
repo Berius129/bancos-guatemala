@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Bancos Guatemala"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "51f2dcb7-40d4-50fe-b405-698d33d2cafe"
+  }
+}

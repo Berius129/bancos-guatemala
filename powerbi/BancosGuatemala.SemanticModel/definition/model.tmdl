@@ -1,0 +1,7 @@
+model Model
+	culture: es-ES
+	defaultPowerBIDataSourceVersion: powerBI_V3
+
+ref table Bancos
+ref table Fechas
+ref table Cuentas

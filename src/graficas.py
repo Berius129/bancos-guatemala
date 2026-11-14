@@ -170,8 +170,10 @@ def grupos(c: pd.DataFrame) -> None:
 
 def main() -> None:
     FIG.mkdir(parents=True, exist_ok=True)
+    # Las gráficas del reporte comparan cierres anuales; los cortes parciales van al dashboard.
     k = pd.read_csv(PROC / "kpis.csv", parse_dates=["fecha"])
     s = pd.read_csv(PROC / "sistema.csv", parse_dates=["fecha"])
+    k, s = k[k["fecha"].dt.month == 12], s[s["fecha"].dt.month == 12]
     c = pd.read_csv(PROC / "clusters.csv", index_col="banco")
     participacion(k)
     sistema(s)

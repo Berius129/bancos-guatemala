@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "sistema",
+  "displayName": "Sistema bancario de Guatemala",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280,
+  "visualInteractions": [
+    {
+      "source": "filtro-fecha",
+      "target": "tendencia-roe",
+      "type": "NoFilter"
+    },
+    {
+      "source": "filtro-fecha",
+      "target": "tendencia-morosidad",
+      "type": "NoFilter"
+    }
+  ]
+}
